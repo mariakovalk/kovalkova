@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(rgb(220, 156, 240), pink);
+    border-collapse: collapse;
+    text-align: center;   
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+table{
+    width: 1850px;
+    height: 900px;
+    border: 2px solid rgb(0, 0, 2);
+    border-collapse: collapse;
+    text-align: center;
+    margin:auto
+}
+td,tr {
+    border: 2px solid rgb(0, 0, 0);
+}
+<p collor="gradient-text">
+</p>
+tr {
+    width: 1850px;
+    height: 900px; 
+h1 { 
+         font-family: 'Rubik One', sans-serif;
+        font-size: 50px;
+        text-transform: uppercase;
+        background: linear-gradient(45deg, #5375ac 33%, #48ca7a 66%,);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        color: #0B2349;
+        display: table;
+        margin: 5px auto;
+    }
